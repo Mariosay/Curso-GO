@@ -1,5 +1,6 @@
 #Curso GO
-## es necesario correr estos comandos desde la consola
+https://go.dev/dl/
+## Es necesario correr estos comandos desde la consola
 
 
 | codigo  | Descripcion |
