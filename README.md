@@ -1,1 +1,4 @@
- | Attempt | #1 | #2 | | ------- | --- | --- | | Seconds | 301 | 283 | 
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
