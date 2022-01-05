@@ -4,7 +4,7 @@ https://go.dev/dl/
 ##Es necesario correr estos comandos desde la consola
 
 
-| codigo  | Descripcion |
+| Código  | Descripcion |
 | ------------- | ------------- |
 | ```go version ``` | muestra la version de GO instalada |
 | ```go build nombrArchivo.go``` | genera el ejecutable de la app |
