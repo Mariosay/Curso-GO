@@ -15,5 +15,5 @@ https://go.dev/dl/
 En GO solo hay el ciclo for
 
 ###
-go mod init carpetadelproyecto -> crea un archivo .mod el cual nos sirve para guardar drivers en este caso para hacer la conexion a mysql
-go get -u github.com/go-sql-driver/mysql
+go mod init carpetadelproyecto -> crea un archi o .mod el cual nos sirve para guardar drivers en este caso para hacer la conexion a mysql
+go get -u github.com/go-sql-driver/mysql   -> descarga el driver 
